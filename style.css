@@ -1,0 +1,14 @@
+#title{
+    background-color: rgb(238, 130, 222);
+    color: black;
+    padding: 12px;
+}
+body{
+    background-color: rgb(243, 148, 213);
+}
+#webcam,#image1{
+        border-radius: 20px;
+        border-color: black;
+        box-shadow: 5px 5px 20px blue;
+        width:320px;
+}
